@@ -1,0 +1,7 @@
+java-react-example/.gradle/*
+java-react-example/build/*
+java-react-example/.gradle
+java-react-example/build
+java-react-example/.idea
+.idea/
+
